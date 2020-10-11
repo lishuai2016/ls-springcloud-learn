@@ -25,3 +25,30 @@ http请求地址和资源文件映射如下:
 
 {"name":"foo","profiles":["dev"],"label":"master",
 "version":"792ffc77c03f4b138d28e89b576900ac5e01a44b","state":null,"propertySources":[]}
+
+
+访问
+http://localhost:8888/config-client/dev
+
+```json
+{
+name: "config-client",
+profiles: [
+"dev"
+],
+label: null,
+version: "3d769eee8c40987c44946bc33cb7e0d058001844",
+state: null,
+propertySources: [
+{
+name: "https://github.com/lishuai2016/ls-spring-cloud-config-respo/config-client-dev.properties",
+source: {
+foo: "foo version 111112222",
+democonfigclient.message: "hello spring io",
+name: "ls",
+age: "18"
+}
+}
+]
+}
+```
