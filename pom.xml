@@ -18,12 +18,7 @@
 
 
     <modules>
-        <module>base-service</module>
-        <module>api</module>
         <module>eureka-server</module>
-        <module>admin-server</module>
-        <module>hystrix-dashboard</module>
-        <module>sleuth-server</module>
         <module>turbine-server</module>
         <module>zuul-server</module>
         <module>hello-service</module>
@@ -36,6 +31,9 @@
         <module>service-miya</module>
         <module>hello1-service</module>
         <module>gateway-server</module>
+        <module>spring-boot-admin</module>
+        <module>spring-boot-admin-client</module>
+        <module>spring-boot-admin-client-war</module>
     </modules>
 
 
