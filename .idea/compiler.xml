@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apollo" />
+        <module name="apollo-spring-customer" />
+        <module name="auth-article-service" />
+        <module name="auth-common" />
+        <module name="auth-service" />
+        <module name="auth-user-service" />
+        <module name="auth-zuul" />
+        <module name="config-client" />
+        <module name="config-eureka-server" />
+        <module name="config-server" />
+        <module name="consumer-hello-feign" />
+        <module name="consumer-hello-ribbon" />
+        <module name="discovery-article-service" />
+        <module name="discovery-user-service" />
+        <module name="discovery-zuul" />
+        <module name="eureka-client-consumer" />
+        <module name="eureka-client-provider" />
+        <module name="eureka-server" />
+        <module name="eureka-server (1) (com.example)" />
+        <module name="feign" />
+        <module name="feign-api" />
+        <module name="feign-user-service" />
+        <module name="gateway-server" />
+        <module name="hello-service" />
+        <module name="hello1-service" />
+        <module name="hystrix" />
+        <module name="hystrix-dashboard" />
+        <module name="optimization-article" />
+        <module name="optimization-user" />
+        <module name="optimization-zuul" />
+        <module name="ribbon (1) (com.example)" />
+        <module name="service-hi" />
+        <module name="service-miya" />
+        <module name="sleuth-article" />
+        <module name="sleuth-user" />
+        <module name="sleuth-zuul" />
+        <module name="spring-boot-admin" />
+        <module name="spring-boot-admin-client" />
+        <module name="spring-boot-admin-client-war" />
+        <module name="spring-cloud-multiple-demo-article-api" />
+        <module name="spring-cloud-multiple-demo-article-provider" />
+        <module name="spring-cloud-multiple-demo-common" />
+        <module name="spring-cloud-multiple-demo-core" />
+        <module name="spring-cloud-multiple-demo-eureka" />
+        <module name="spring-cloud-multiple-demo-hystrix-dashboard" />
+        <module name="spring-cloud-multiple-demo-user-api" />
+        <module name="spring-cloud-multiple-demo-user-provider" />
+        <module name="spring-cloud-multiple-demo-webpage" />
+        <module name="spring-cloud-multiple-demo-zuul" />
+        <module name="springboot-admin" />
+        <module name="springboot-demo" />
+        <module name="springboot-starter-demo" />
+        <module name="turbine-server" />
+        <module name="user-service" />
+        <module name="zuul" />
+        <module name="zuul-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="04hystrix" target="1.5" />
+      <module name="05feign" target="1.5" />
+      <module name="06zuul" target="1.5" />
+      <module name="07apollo" target="1.5" />
+      <module name="08sleuth" target="1.5" />
+      <module name="09auth" target="1.5" />
+      <module name="10discovery" target="1.5" />
+      <module name="11optimization" target="1.5" />
+      <module name="12multiple" target="1.8" />
+      <module name="admin-server" target="1.8" />
+      <module name="api" target="1.8" />
+      <module name="apollo" target="1.8" />
+      <module name="apollo-spring-customer" target="1.8" />
+      <module name="auth-article-service" target="1.8" />
+      <module name="auth-common" target="1.8" />
+      <module name="auth-service" target="1.8" />
+      <module name="auth-user-service" target="1.8" />
+      <module name="auth-zuul" target="1.8" />
+      <module name="base-service" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-eureka-server" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="consumer-hello-feign" target="1.8" />
+      <module name="consumer-hello-ribbon" target="1.8" />
+      <module name="discovery-article-service" target="1.8" />
+      <module name="discovery-user-service" target="1.8" />
+      <module name="discovery-zuul" target="1.8" />
+      <module name="eureka" target="1.5" />
+      <module name="eureka-client-consumer" target="1.8" />
+      <module name="eureka-client-provider" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1) (com.example)" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="feign-api" target="1.8" />
+      <module name="feign-user-service" target="1.8" />
+      <module name="gateway-server" target="1.8" />
+      <module name="hello-service" target="1.8" />
+      <module name="hello1-service" target="1.8" />
+      <module name="hystrix" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="ls-springcloud" target="1.8" />
+      <module name="new" target="1.5" />
+      <module name="optimization-article" target="1.8" />
+      <module name="optimization-user" target="1.8" />
+      <module name="optimization-zuul" target="1.8" />
+      <module name="ribbon" target="1.5" />
+      <module name="ribbon (1) (com.example)" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-miya" target="1.8" />
+      <module name="sleuth-article" target="1.8" />
+      <module name="sleuth-server" target="1.8" />
+      <module name="sleuth-user" target="1.8" />
+      <module name="sleuth-zuul" target="1.8" />
+      <module name="spring-boot-admin" target="1.8" />
+      <module name="spring-boot-admin-client" target="1.8" />
+      <module name="spring-boot-admin-client-war" target="1.8" />
+      <module name="spring-cloud-multiple-demo" target="1.8" />
+      <module name="spring-cloud-multiple-demo-article" target="1.8" />
+      <module name="spring-cloud-multiple-demo-article-api" target="1.8" />
+      <module name="spring-cloud-multiple-demo-article-provider" target="1.8" />
+      <module name="spring-cloud-multiple-demo-common" target="1.8" />
+      <module name="spring-cloud-multiple-demo-core" target="1.8" />
+      <module name="spring-cloud-multiple-demo-eureka" target="1.8" />
+      <module name="spring-cloud-multiple-demo-hystrix-dashboard" target="1.8" />
+      <module name="spring-cloud-multiple-demo-user" target="1.8" />
+      <module name="spring-cloud-multiple-demo-user-api" target="1.8" />
+      <module name="spring-cloud-multiple-demo-user-provider" target="1.8" />
+      <module name="spring-cloud-multiple-demo-webpage" target="1.8" />
+      <module name="spring-cloud-multiple-demo-zuul" target="1.8" />
+      <module name="springboot" target="1.5" />
+      <module name="springboot-admin" target="1.8" />
+      <module name="springboot-demo" target="1.8" />
+      <module name="springboot-starter-demo" target="1.8" />
+      <module name="turbine-server" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="zuul" target="1.8" />
+      <module name="zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

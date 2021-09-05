@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/new/04hystrix/04hystrix.iml" filepath="$PROJECT_DIR$/new/04hystrix/04hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/05feign/05feign.iml" filepath="$PROJECT_DIR$/new/05feign/05feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/06zuul/06zuul.iml" filepath="$PROJECT_DIR$/new/06zuul/06zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/07apollo/07apollo.iml" filepath="$PROJECT_DIR$/new/07apollo/07apollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/08sleuth/08sleuth.iml" filepath="$PROJECT_DIR$/new/08sleuth/08sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/09auth/09auth.iml" filepath="$PROJECT_DIR$/new/09auth/09auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/10discovery/10discovery.iml" filepath="$PROJECT_DIR$/new/10discovery/10discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/11optimization/11optimization.iml" filepath="$PROJECT_DIR$/new/11optimization/11optimization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/07apollo/apollo/apollo.iml" filepath="$PROJECT_DIR$/new/07apollo/apollo/apollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/07apollo/apollo-spring-customer/apollo-spring-customer.iml" filepath="$PROJECT_DIR$/new/07apollo/apollo-spring-customer/apollo-spring-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/09auth/auth-article-service/auth-article-service.iml" filepath="$PROJECT_DIR$/new/09auth/auth-article-service/auth-article-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/09auth/auth-common/auth-common.iml" filepath="$PROJECT_DIR$/new/09auth/auth-common/auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/09auth/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/new/09auth/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/09auth/auth-user-service/auth-user-service.iml" filepath="$PROJECT_DIR$/new/09auth/auth-user-service/auth-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/09auth/auth-zuul/auth-zuul.iml" filepath="$PROJECT_DIR$/new/09auth/auth-zuul/auth-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-eureka-server/config-eureka-server.iml" filepath="$PROJECT_DIR$/config-eureka-server/config-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-hello-feign/consumer-hello-feign.iml" filepath="$PROJECT_DIR$/consumer-hello-feign/consumer-hello-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-hello-ribbon/consumer-hello-ribbon.iml" filepath="$PROJECT_DIR$/consumer-hello-ribbon/consumer-hello-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/10discovery/discovery-article-service/discovery-article-service.iml" filepath="$PROJECT_DIR$/new/10discovery/discovery-article-service/discovery-article-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/10discovery/discovery-user-service/discovery-user-service.iml" filepath="$PROJECT_DIR$/new/10discovery/discovery-user-service/discovery-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/10discovery/discovery-zuul/discovery-zuul.iml" filepath="$PROJECT_DIR$/new/10discovery/discovery-zuul/discovery-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/eureka/eureka.iml" filepath="$PROJECT_DIR$/new/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/eureka/eureka-client-consumer/eureka-client-consumer.iml" filepath="$PROJECT_DIR$/new/eureka/eureka-client-consumer/eureka-client-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/eureka/eureka-client-provider/eureka-client-provider.iml" filepath="$PROJECT_DIR$/new/eureka/eureka-client-provider/eureka-client-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/eureka/eureka-server/eureka-server (1) (com.example).iml" filepath="$PROJECT_DIR$/new/eureka/eureka-server/eureka-server (1) (com.example).iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/05feign/feign/feign.iml" filepath="$PROJECT_DIR$/new/05feign/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/05feign/feign-api/feign-api.iml" filepath="$PROJECT_DIR$/new/05feign/feign-api/feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/05feign/feign-user-service/feign-user-service.iml" filepath="$PROJECT_DIR$/new/05feign/feign-user-service/feign-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/hello-service/hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello1-service/hello1-service.iml" filepath="$PROJECT_DIR$/hello1-service/hello1-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/04hystrix/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/new/04hystrix/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/04hystrix/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/new/04hystrix/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-springcloud.iml" filepath="$PROJECT_DIR$/ls-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/new.iml" filepath="$PROJECT_DIR$/new/new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/11optimization/optimization-article/optimization-article.iml" filepath="$PROJECT_DIR$/new/11optimization/optimization-article/optimization-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/11optimization/optimization-user/optimization-user.iml" filepath="$PROJECT_DIR$/new/11optimization/optimization-user/optimization-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/11optimization/optimization-zuul/optimization-zuul.iml" filepath="$PROJECT_DIR$/new/11optimization/optimization-zuul/optimization-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/new/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/ribbon/ribbon/ribbon (1) (com.example).iml" filepath="$PROJECT_DIR$/new/ribbon/ribbon/ribbon (1) (com.example).iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/service-miya/service-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/08sleuth/sleuth-article/sleuth-article.iml" filepath="$PROJECT_DIR$/new/08sleuth/sleuth-article/sleuth-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/08sleuth/sleuth-user/sleuth-user.iml" filepath="$PROJECT_DIR$/new/08sleuth/sleuth-user/sleuth-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/08sleuth/sleuth-zuul/sleuth-zuul.iml" filepath="$PROJECT_DIR$/new/08sleuth/sleuth-zuul/sleuth-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin-client/spring-boot-admin-client.iml" filepath="$PROJECT_DIR$/spring-boot-admin-client/spring-boot-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin-client-war/spring-boot-admin-client-war.iml" filepath="$PROJECT_DIR$/spring-boot-admin-client-war/spring-boot-admin-client-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article/spring-cloud-multiple-demo-article.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article/spring-cloud-multiple-demo-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article/spring-cloud-multiple-demo-article-api/spring-cloud-multiple-demo-article-api.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article/spring-cloud-multiple-demo-article-api/spring-cloud-multiple-demo-article-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article/spring-cloud-multiple-demo-article-provider/spring-cloud-multiple-demo-article-provider.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article/spring-cloud-multiple-demo-article-provider/spring-cloud-multiple-demo-article-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-common/spring-cloud-multiple-demo-common.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-common/spring-cloud-multiple-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-core/spring-cloud-multiple-demo-core.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-core/spring-cloud-multiple-demo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-eureka/spring-cloud-multiple-demo-eureka.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-eureka/spring-cloud-multiple-demo-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-hystrix-dashboard/spring-cloud-multiple-demo-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-hystrix-dashboard/spring-cloud-multiple-demo-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user/spring-cloud-multiple-demo-user.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user/spring-cloud-multiple-demo-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user/spring-cloud-multiple-demo-user-api/spring-cloud-multiple-demo-user-api.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user/spring-cloud-multiple-demo-user-api/spring-cloud-multiple-demo-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user/spring-cloud-multiple-demo-user-provider/spring-cloud-multiple-demo-user-provider.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user/spring-cloud-multiple-demo-user-provider/spring-cloud-multiple-demo-user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-webpage/spring-cloud-multiple-demo-webpage.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-webpage/spring-cloud-multiple-demo-webpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-zuul/spring-cloud-multiple-demo-zuul.iml" filepath="$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-zuul/spring-cloud-multiple-demo-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/springboot/springboot.iml" filepath="$PROJECT_DIR$/new/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/springboot/springboot-admin/springboot-admin.iml" filepath="$PROJECT_DIR$/new/springboot/springboot-admin/springboot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/springboot/springboot-demo/springboot-demo.iml" filepath="$PROJECT_DIR$/new/springboot/springboot-demo/springboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/springboot/springboot-starter-demo/springboot-starter-demo.iml" filepath="$PROJECT_DIR$/new/springboot/springboot-starter-demo/springboot-starter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-server/turbine-server.iml" filepath="$PROJECT_DIR$/turbine-server/turbine-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/ribbon/user-service/user-service.iml" filepath="$PROJECT_DIR$/new/ribbon/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/06zuul/zuul/zuul.iml" filepath="$PROJECT_DIR$/new/06zuul/zuul/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>

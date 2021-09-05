@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-hello-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-hello-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hello-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hello1-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/04hystrix/hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/04hystrix/hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/05feign/feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/05feign/feign-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/05feign/feign-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/06zuul/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/07apollo/apollo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/07apollo/apollo-spring-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/08sleuth/sleuth-article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/08sleuth/sleuth-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/08sleuth/sleuth-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/09auth/auth-article-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/09auth/auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/09auth/auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/09auth/auth-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/09auth/auth-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/10discovery/discovery-article-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/10discovery/discovery-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/10discovery/discovery-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/11optimization/optimization-article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/11optimization/optimization-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/11optimization/optimization-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/eureka/eureka-client-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/eureka/eureka-client-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/eureka/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/ribbon/ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/ribbon/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article/spring-cloud-multiple-demo-article-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-article/spring-cloud-multiple-demo-article-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user/spring-cloud-multiple-demo-user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-user/spring-cloud-multiple-demo-user-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-webpage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/spring-cloud-multiple-demo/spring-cloud-multiple-demo-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/springboot/springboot-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/springboot/springboot-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new/springboot/springboot-starter-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-miya" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-admin-client-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/turbine-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-server" charset="UTF-8" />
+  </component>
+</project>

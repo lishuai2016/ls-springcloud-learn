@@ -34,6 +34,7 @@
         <module>spring-boot-admin</module>
         <module>spring-boot-admin-client</module>
         <module>spring-boot-admin-client-war</module>
+        <module>new</module>
     </modules>
 
 

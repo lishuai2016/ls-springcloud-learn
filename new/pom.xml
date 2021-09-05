@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ls</groupId>
+    <artifactId>new</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+
+    <modules>
+        <module>springboot</module>
+        <module>eureka</module>
+        <module>ribbon</module>
+        <module>04hystrix</module>
+        <module>05feign</module>
+        <module>06zuul</module>
+        <module>07apollo</module>
+        <module>08sleuth</module>
+        <module>09auth</module>
+        <module>10discovery</module>
+        <module>11optimization</module>
+        <module>spring-cloud-multiple-demo</module>
+    </modules>
+
+
+
+
+</project>
